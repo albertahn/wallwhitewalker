@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ArrowShooter/scripts/enemySpawner.cs">
+    <Files>
+      <File FileName="Assets/Resources/1.test script/pullarrow.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/arrowScripts.cs" Line="31" Column="10" />
+      <File FileName="Assets/ArrowShooter/scripts/characterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/dragonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/enemyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/touchRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/gunHandlerEnem.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/levelController.cs" Line="1" Column="1" />
+      <File FileName="Assets/ArrowShooter/scripts/enemySpawner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

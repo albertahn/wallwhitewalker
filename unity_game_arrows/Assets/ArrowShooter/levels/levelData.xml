@@ -1,0 +1,52 @@
+<levels>
+  <level>
+    <name>Level 01 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 02 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 03 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 04 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 05 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 06 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 07 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 08 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 09 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>
+  <level>
+    <name>Level 10 - Base Camp</name>
+    <object name ="textA"> - Take a Head Shot</object>
+    <object name ="textB"> - Take the Man on Comms/Patrol First.</object>
+  </level>  
+</levels>
